@@ -1,2 +1,3 @@
 Editing the file in my-new-branch Branch 
 
+Adding new changes to the file in my-new-branch
